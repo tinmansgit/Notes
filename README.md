@@ -1,6 +1,6 @@
 # Notes<br />
 <br />
-Bash script for simple text note taking<br />
+Bash scripts for simple text note taking and editing<br />
 <br />
 Create a keybinding to launch script<br />
 (Sup+n = my_note.sh)<br />
