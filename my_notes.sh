@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 
+# modify to your prefered terminal and editor
 VIEDIT="/usr/bin/terminator --geometry=1200x600+400+200 -x vi"
 
 FILE_LAST="$HOME/bin/my_notes.sh"
 
+# refer to previous comment
 TRM="/usr/bin/terminator --geometry=1200x600+400+200"
 
 options=(
