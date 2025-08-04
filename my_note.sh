@@ -9,5 +9,5 @@ filename="${date_str}.md"
 
 touch "$filename"
 
-# change to your choice terminal 
+# change to your prefered terminal 
 terminator --geometry=600x600+700+200 -x vi "$filename"
